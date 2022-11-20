@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: rgb(32, 178, 103);
+}
+input{
+    height: 30px;
+    width: 20%;
+    padding: 4px;
+    background-color: white;
+    font-size: 15px;
+    margin: 20px;
+    border-radius: 9px;
+}
+button{
+    width: 10%;
+    height: 30px;
+    padding: 4px;
+    font-weight: bold;
+    color: black;
+    background-color: green;
+    border-radius: 12px;
+}
+button:hover{
+    color: rgb(205, 208, 32);
+    box-shadow:2px 2px 5px 4px rgb(63, 215, 126);
+}
+
+    
+
+table{
+    width: 90%;
+    background-color: lightgreen;
+    margin-top: 25px;
+    margin-left: 18px;
+}
+
+ th{
+    height: 30px;
+    width: 5px;
+    border: 2px solid blueviolet;
+    background-color: rgb(0, 255, 187);
+}
+.remove button{
+    width: 100%;   
+    padding: 5px;
+    height: 30px;
+    color: magenta;
+    background-color: lightskyblue;
+   }
+   .remove button:hover{
+       color: red
+       
+   }
